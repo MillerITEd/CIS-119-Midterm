@@ -1,0 +1,36 @@
+Multiplication operators:
+*, /, +, -
+
+Assignment:
+SET
+e.g. SET x = 0; SET x = y + 1
+
+Give the user instructions:
+DISPLAY
+e.g. DISPLAY "Enter a number"
+
+Give the user information:
+DISPLAY 
+e.g. DISPLAY "The sum of a and b is ", c
+
+Ask the user for data and store it in a variable:
+INPUT
+e.g. INPUT x
+
+Conditional:
+IF or IF/ELSE
+e.g.
+IF a > b
+  statement(s)
+
+e.g.
+IF a > b
+  statement(s)
+ELSE
+  statement(s)
+
+Loop:
+REPEAT UNTIL
+e.g.
+REPEAT UNTIL (x > 100)
+  statement(s)
