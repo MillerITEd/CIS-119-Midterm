@@ -1,0 +1,36 @@
+PART 1:
+The formula for the area of a circle is:
+pi x (radius squared)
+
+The formula for the circumference of a circle is:
+2 x pi x radius
+
+Write an algorithm, in pseudocode, that:
+  asks the user for the radius of a circle
+  calculates the area of the circle
+  calculates the circumference of the circle
+  displays the calculated area and circumference to the user
+
+(Use 3.14 for pi)
+
+
+PART 2:
+Write an algorithm, in pseudocode, to:
+  prompt the user to enter 3 numbers
+  determine which 2 numbers, when added together, result in the largest sum
+  tell the user which 2 numbers those are and what their sum is
+
+
+PART 3:
+Write an algorithm, in pseudocode, to:
+  prompt the user to enter a starting number and an ending number
+  beginning with the starting number, display every other number up to
+  the ending number
+  
+  (In other words, count by 2's from the starting
+  number to the ending number. The ending number itself may or 
+  may not display, but the final number displayed should not be 
+  greater than the ending number.)
+  
+  BONUS POINT: What condition is necessary for both the
+  starting and ending number to display?
